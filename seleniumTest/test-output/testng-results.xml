@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="49428" started-at="2020-05-25T20:25:53Z" finished-at="2020-05-25T20:26:42Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="49428" started-at="2020-05-25T20:25:53Z" finished-at="2020-05-25T20:26:42Z">
+      <class name="com.learn.seleniumTest.SampleSeltest">
+        <test-method status="PASS" signature="Testmethod()[pri:0, instance:com.learn.seleniumTest.SampleSeltest@1d057a39]" name="Testmethod" duration-ms="49171" started-at="2020-05-25T20:25:53Z" finished-at="2020-05-25T20:26:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testmethod -->
+      </class> <!-- com.learn.seleniumTest.SampleSeltest -->
+    </test> <!-- Regression -->
+  </suite> <!-- Suite1 -->
+</testng-results>
